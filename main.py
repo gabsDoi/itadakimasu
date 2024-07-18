@@ -8,7 +8,6 @@ def nome_do_app():
     os.system('cls')
     print('''
 - - - Itadakimasu - - -
-   Comidas Orientais
           ''')
 
 def opcoes():
