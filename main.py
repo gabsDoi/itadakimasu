@@ -5,7 +5,6 @@ restaurantes_cadastrados = []
 
 def nome_do_app():
     '''Defini o título do app'''
-    os.system('cls')
     print('''
 - - - Itadakimasu - - -
           ''')
