@@ -59,4 +59,4 @@ Fiz algumas pequenas mudanças em relação ao projeto original do curso
 
 Este foi meu primeiro projeto em _Python_!
 
-Espero que tenha gostado :smile:
+Espero que tenha gostado, Deus abençoe! :smile: :pray:
